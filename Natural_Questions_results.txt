@@ -1,3 +1,0 @@
-Task: Natural Questions
-Samples: 3610
-EM Score: 37.45%

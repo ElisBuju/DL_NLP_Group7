@@ -1,3 +1,0 @@
-Task: WebQuestions
-Samples: 2032
-EM Score: 15.99%
